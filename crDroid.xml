@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-2 <manifest> 
-3 <!-- OnePlus2 --> 
-4   <project name="Grarak/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="cm-13.0" /> 
-5   <project name="Grarak/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" /> 
-6   <project name="Grarak/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" /> 
-7   <project name="Grarak/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="cm-13.0" /> 
-8 <!-- /OnePlus2 --> 
-9 <!-- Note2 --> 
-10   <project name="Trafalgar-Square/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" revision="crdroid" /> 
-11   <project name="Trafalgar-Square/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-13.0" /> 
-12   <project name="Trafalgar-Square/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-13.0" /> 
-13   <project name="Trafalgar-Square/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="nameless" /> 
-14   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" /> 
-15   <project name="Trafalgar-Square/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" /> 
-16 <!-- /Note2 --> 
-17 <!-- General --> 
-18   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" /> 
-19   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" /> 
-20   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" /> 
-21 <!-- /General --> 
+  <manifest> 
+  <!-- OnePlus2 --> 
+  <project name="Grarak/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="cm-13.0" /> 
+  <project name="Grarak/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" /> 
+  <project name="Grarak/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" /> 
+  <project name="Grarak/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="cm-13.0" /> 
+  <!-- /OnePlus2 --> 
+  <!-- Note2 --> 
+  <project name="Trafalgar-Square/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" revision="crdroid" /> 
+  <project name="Trafalgar-Square/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-13.0" /> 
+  <project name="Trafalgar-Square/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-13.0" /> 
+  <project name="Trafalgar-Square/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="nameless" /> 
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" /> 
+  <project name="Trafalgar-Square/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" /> 
+  <!-- /Note2 --> 
+  <!-- General --> 
+  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" /> 
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" /> 
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" /> 
+  <!-- /General --> 
 </manifest>
